@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1>🧑🏻‍💻Fellipe Dourado </h1>
 
-<!--
-**FellipeDourado/FellipeDourado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Front-End`**
 
-Here are some ideas to get you started:
+- Estudante de Ciência da computação.
+- Estou atuando como analista de dados, meu cargo e Jovem Aprendiz.
+- Meu foco e ser desenvolvedor de front End.
+- Mexo com o Power bi e Excel.
+- Faço testes de QA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: incline_block"><br>
+  <img align="
+</div>
+   
+  
