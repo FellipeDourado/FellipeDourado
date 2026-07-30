@@ -13,6 +13,7 @@ Sou estudante de Ciência da Computação e atualmente atuo como Analista de Dad
   <img align="center" alt="Fe-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Fe-BootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Fe-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Fe-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" alt="Fe-Powerbi" height="30" width="40" src="https://api.iconify.design/logos:microsoft-power-bi.svg">
   <img align="center" alt="Fe-Excel" height="30" width="40" src="https://api.iconify.design/mdi:microsoft-excel.svg?color=%23217346">
 </div>
