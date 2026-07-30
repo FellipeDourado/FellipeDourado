@@ -1,4 +1,4 @@
-<h1>🧑🏻‍💻Fellipe Dourado </h1>
+<h1>👨🏻‍💻Fellipe Dourado </h1>
 
 **`Desenvolvedor Front-End`**
 
@@ -9,7 +9,12 @@
 - Faço testes de QA.
 
 <div style="display: incline_block"><br>
-  <img align="
+  <img align="center" alt="Fe-Html" altura="30" largura="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg">
+  <img align="center" alt="Fe-Css" altura="30" largura="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg">
+  <img align="center" alt="Fe-JS" altura="30" largura="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg">
+  <img align="center" alt="Fe-BootStrap" altura="30" largura="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg">
+  <img align="center" alt="Fe-PowerBi" altura="30" largura="40" src=
+  <img align="center" alt="Fe-Excel" altura="30" largura="40" src=
 </div>
    
-  
+  ##
