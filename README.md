@@ -21,6 +21,11 @@ Sou estudante de Ciência da Computação e atualmente atuo como Analista de Dad
    
   ##
 
+<img 
+
+
+  ##
+
 <div>
 
   **`Contato`**
