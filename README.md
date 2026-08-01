@@ -22,6 +22,13 @@ Sou estudante de Ciência da Computação e atualmente atuo como Analista de Dad
   ##
 
 
+**`Commits`**
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FellipeDourado/FellipeDourado/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FellipeDourado/FellipeDourado/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FellipeDourado/FellipeDourado/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
 
 
   ##
