@@ -4,7 +4,7 @@
 
 Sou estudante de Ciência da Computação e atualmente atuo como Analista de Dados (Jovem Aprendiz). Meu foco profissional é o Desenvolvimento Front-End, área na qual dedico meus estudos e desenvolvo projetos para aprimorar minhas habilidades. Tenho experiência com Power BI, Excel e testes de QA, e estou sempre em busca de criar interfaces modernas, responsivas e com uma excelente experiência para o usuário.
 
-<div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
   
   **`Tecnologias e Ferramentas`**
   
@@ -24,7 +24,7 @@ Sou estudante de Ciência da Computação e atualmente atuo como Analista de Dad
 
 **`Commits`**
 
-<picture data-importer="pacman">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FellipeDourado/FellipeDourado/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FellipeDourado/FellipeDourado/pacman-output/galaga-contribution-graph.svg?game=galaga">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FellipeDourado/FellipeDourado/pacman-output/galaga-contribution-graph.svg?game=galaga">
