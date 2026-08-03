@@ -1,13 +1,29 @@
-<a align="center">
-  <img src="./assets/logofellipe height=45"
+<h1>Fellipe Dourado 
+<img src="./assets/logo%20fellipe.png" height="45" align="center">
+</h1>
 
-<h1>Fellipe Dourado👨🏻‍💻 </h1>
-
-**`Desenvolvedor Front-End`**
+**`💻 Desenvolvedor Front-End • 🎓 Ciência da Computação • 📊 Analista de Dados`**
 
 Sou estudante de Ciência da Computação e atualmente atuo como Analista de Dados (Jovem Aprendiz), desenvolvendo atividades relacionadas à análise de dados, criação de dashboards, suporte técnico aos usuários e testes de QA. Meu foco profissional é o Desenvolvimento Front-End, área na qual dedico meus estudos e desenvolvo projetos para aprimorar minhas habilidades. Tenho experiência com Power BI, Excel, suporte técnico e qualidade de software, buscando sempre criar soluções eficientes e interfaces modernas, responsivas e centradas na experiência do usuário.
 
 <div style="display: inline-block"><br>
+
+
+**`Projetos em Destaque`**
+
+🌤️ Clima Agora
+Aplicação web de previsão do tempo com interface responsiva.
+
+🔗 https://clima-agora-aplica-o-web-de-climati.vercel.app/
+
+##
+
+💼 Meu Portfólio
+Site desenvolvido para me apresentar e mostrar minhas habilidades
+
+🔗 https://portifolio-tau-ten-60.vercel.app/
+
+##
   
   **`Tecnologias e Ferramentas`**
   
