@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Sou estudante de Ciência da Computação e atualmente atuo como Analista de Dados (Jovem Aprendiz). Meu foco profissional é o Desenvolvimento Front-End, área na qual dedico meus estudos e desenvolvo projetos para aprimorar minhas habilidades. Tenho experiência com Power BI, Excel e testes de QA, e estou sempre em busca de criar interfaces modernas, responsivas e com uma excelente experiência para o usuário.
+Sou estudante de Ciência da Computação e atualmente atuo como Analista de Dados (Jovem Aprendiz), desenvolvendo atividades relacionadas à análise de dados, criação de dashboards, suporte técnico aos usuários e testes de QA. Meu foco profissional é o Desenvolvimento Front-End, área na qual dedico meus estudos e desenvolvo projetos para aprimorar minhas habilidades. Tenho experiência com Power BI, Excel, suporte técnico e qualidade de software, buscando sempre criar soluções eficientes e interfaces modernas, responsivas e centradas na experiência do usuário.
 
 <div style="display: inline-block"><br>
   
