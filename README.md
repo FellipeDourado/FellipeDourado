@@ -8,6 +8,9 @@ Sou estudante de Ciência da Computação e atualmente atuo como Analista de Dad
 
 <div style="display: inline-block"><br>
 
+<p align="center">
+  <img src=".assets/gif.gif" width="450" alt="Developer Coding">
+</p>
 
 **`Projetos em Destaque`**
 
