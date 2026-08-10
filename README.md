@@ -58,8 +58,5 @@ Site desenvolvido para me apresentar e mostrar minhas habilidades
   <a href ="mailto:fellipedorado23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=Blue" target="_blank"></a>
   <a href ="https://www.linkedin.com/in/fedorado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href ="https://portifolio-tau-ten-60.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/💻%20Portfólio-000000?style=for-the-badge"> </a> 
-  
- <img align="right" src="assets/gif.gif" width="350">
-
-  
+    
 </div>
