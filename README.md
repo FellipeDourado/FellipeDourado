@@ -8,6 +8,13 @@ Sou estudante de Ciência da Computação e atualmente atuo como Jovem Aprendiz 
 Meu foco profissional é o desenvolvimento Front-End, área na qual venho aprofundando meus conhecimentos por meio de estudos e projetos práticos.
 Tenho experiência com HTML, CSS, JavaScript, Bootstrap, Git e GitHub, além de contato com Power BI, Excel, SQL, QA e sistemas corporativos.
 
+##
+
+**`🎯 Foco profissional`**
+
+Meu foco profissional está no desenvolvimento Front-End e desenvolvimento web,
+buscando criar interfaces responsivas, funcionais e com boa experiência de uso.
+
 <div style="display: inline-block"><br>
 
 **`Projetos em Destaque`**
