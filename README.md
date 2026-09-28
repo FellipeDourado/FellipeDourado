@@ -4,7 +4,9 @@
 
 **`💻 Desenvolvedor Front-End em formação • 🎓 Ciência da Computação • 🛠️ Tecnologia e Desenvolvimento Web`**
 
-Sou estudante de Ciência da Computação e atualmente atuo como Analista de Dados (Jovem Aprendiz), desenvolvendo atividades relacionadas à análise de dados, criação de dashboards, suporte técnico aos usuários e testes de QA. Meu foco profissional é o Desenvolvimento Front-End, área na qual dedico meus estudos e desenvolvo projetos para aprimorar minhas habilidades. Tenho experiência com Power BI, Excel, suporte técnico e qualidade de software, buscando sempre criar soluções eficientes e interfaces modernas, responsivas e centradas na experiência do usuário.
+Sou estudante de Ciência da Computação e atualmente atuo como Jovem Aprendiz na área de Gerenciamento de Risco, com experiência em suporte técnico, testes e homologação, análise de dados e desenvolvimento de soluções internas.
+Meu foco profissional é o desenvolvimento Front-End, área na qual venho aprofundando meus conhecimentos por meio de estudos e projetos práticos.
+Tenho experiência com HTML, CSS, JavaScript, Bootstrap, Git e GitHub, além de contato com Power BI, Excel, SQL, QA e sistemas corporativos.
 
 <div style="display: inline-block"><br>
 
