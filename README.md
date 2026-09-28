@@ -2,7 +2,7 @@
 <img src="./assets/logo%20fellipe.png" height="45" align="center">
 </h1>
 
-**`💻 Desenvolvedor Front-End • 🎓 Ciência da Computação • 📊 Analista de Dados`**
+**`💻 Desenvolvedor Front-End em formação • 🎓 Ciência da Computação • 🛠️ Tecnologia e Desenvolvimento Web`**
 
 Sou estudante de Ciência da Computação e atualmente atuo como Analista de Dados (Jovem Aprendiz), desenvolvendo atividades relacionadas à análise de dados, criação de dashboards, suporte técnico aos usuários e testes de QA. Meu foco profissional é o Desenvolvimento Front-End, área na qual dedico meus estudos e desenvolvo projetos para aprimorar minhas habilidades. Tenho experiência com Power BI, Excel, suporte técnico e qualidade de software, buscando sempre criar soluções eficientes e interfaces modernas, responsivas e centradas na experiência do usuário.
 
