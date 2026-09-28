@@ -10,7 +10,7 @@ Tenho experiência com HTML, CSS, JavaScript, Bootstrap, Git e GitHub, além de 
 
 ##
 
-**`🎯 Foco profissional`**
+**` Foco profissional`**
 
 Meu foco profissional está no desenvolvimento Front-End e desenvolvimento web,
 buscando criar interfaces responsivas, funcionais e com boa experiência de uso.
