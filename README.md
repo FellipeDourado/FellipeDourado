@@ -2,17 +2,17 @@
 <img src="./assets/logo%20fellipe.png" height="45" align="center">
 </h1>
 
-**`💻 Desenvolvedor Front-End em formação • 🎓 Ciência da Computação • 🛠️ Tecnologia e Desenvolvimento Web`**
+**`💻 Desenvolvedor em formação • 🎓 Ciência da Computação • 🛠️ Tecnologia e Desenvolvimento Web`**
 
 Sou estudante de Ciência da Computação e atualmente atuo como Jovem Aprendiz na área de Gerenciamento de Risco, com experiência em suporte técnico, testes e homologação, análise de dados e desenvolvimento de soluções internas.
-Meu foco profissional é o desenvolvimento Front-End, área na qual venho aprofundando meus conhecimentos por meio de estudos e projetos práticos.
+Meu foco profissional é o desenvolvimento, área na qual venho aprofundando meus conhecimentos por meio de estudos e projetos práticos.
 Tenho experiência com HTML, CSS, JavaScript, Bootstrap, Git e GitHub, além de contato com Power BI, Excel, SQL, QA e sistemas corporativos.
 
 ##
 
 **`Foco profissional`**
 
-Busco desenvolver minha experiência em Front-End e desenvolvimento web por meio de projetos práticos,
+Busco desenvolver minha experiência em desenvolvimento web por meio de projetos práticos,
 explorando a criação de interfaces responsivas, funcionais e voltadas à experiência do usuário.
 
 <div style="display: inline-block"><br>
@@ -29,7 +29,7 @@ Aplicação web de previsão do tempo com interface responsiva.
 💼 Meu Portfólio
 Site desenvolvido para me apresentar e mostrar minhas habilidades
 
-🔗 https://fellipedourado-portfolio.vercel.app/
+🔗 https://fellipedourado.vercel.app/
 
 ##
   
@@ -66,6 +66,6 @@ Site desenvolvido para me apresentar e mostrar minhas habilidades
 
   <a href ="mailto:fellipedorado23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=Blue" target="_blank"></a>
   <a href ="https://www.linkedin.com/in/fedorado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href ="[https://portifolio-tau-ten-60.vercel.app/](https://fellipedourado-portfolio.vercel.app/)" target="_blank"> <img src="https://img.shields.io/badge/💻%20Portfólio-000000?style=for-the-badge"> </a> 
+  <a href ="https://fellipedourado.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/💻%20Portfólio-000000?style=for-the-badge"> </a> 
     
 </div>
